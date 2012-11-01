@@ -1,4 +1,4 @@
-# Dummy API
+# Example Dummy API Documentation
 
 The Dummy API is a skeleton that can be used along with DummyWebApi project template when creating a new brick. This template can be found in `C:\projects\DotNet Common\ProjectTemplates`
 
