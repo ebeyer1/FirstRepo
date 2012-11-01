@@ -1,5 +1,11 @@
 # Dummy API
 
+The Dummy API is a skeleton that can be used along with DummyWebApi project template when creating a new brick. This template can be found in `C:\projects\DotNet Common\ProjectTemplates`
+
+Since this project is an example, the base URL for all V1 calls is simple `http://127.0.0.1:81/v1/`
+
+As stated in the project template, this example does not contain authentication, so the API can be freely hit.
+
 ##Create a New Dummy
 
 __Request__
@@ -46,7 +52,7 @@ An error response will have the following format:
     HTTP/1.1 <error_http_status_code>
     Content-Type: application/json
     {
-    	"message" : "<message_for_developer"
+    	"message" : "<message_for_developer>"
     }
 
   - _message_: Message for the developer about what was wrong and how to fix it
