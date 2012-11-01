@@ -4,7 +4,7 @@ The Dummy API is a skeleton that can be used along with DummyWebApi project temp
 
 Since this project is an example, the base URL for all V1 calls is simple `http://127.0.0.1:81/v1/`
 
-As stated in the project template, this example does not contain authentication, so the API can be freely hit.
+As stated in the project template, this example does not contain authentication, so the API can be freely hit (when running the storage emulator).
 
 ##Create a New Dummy
 
